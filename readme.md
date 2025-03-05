@@ -36,22 +36,13 @@ Before you start, make sure you have:
 Installation
 
     Clone the repo:
-    bash
-    Copy
-
     git clone https://github.com/yourusername/7earth_sub.git
     cd 7earth_sub
 
     Make the installer executable:
-    bash
-    Copy
-
     chmod +x 7earth_sub.sh
 
     Run the installer:
-    bash
-    Copy
-
     ./install_tools.sh
 
     This script will install all the tools and dependencies you need. Grab a coffee ☕—it might take a few minutes.
@@ -60,15 +51,9 @@ How to Use It 🛠️
 Step 1: Run the Script
 
     Make the script executable:
-    bash
-    Copy
-
     chmod +x 7earth_sub.sh
 
     Run it with your target domain:
-    bash
-    Copy
-
     ./7earth_sub.sh example.com
 
     Replace example.com with the domain you want to enumerate.
@@ -84,9 +69,6 @@ Once the script finishes, you’ll find a folder named subdomain_enumeration in 
 Example Run 🖥️
 
 Here’s what it looks like when you run the tool:
-bash
-Copy
-
 $ ./7earth_sub.sh example.com
 
 Running Sublist3r... Done!
